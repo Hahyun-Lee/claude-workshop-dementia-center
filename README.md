@@ -9,6 +9,7 @@
 | `skill/` | **치매안심센터 문서 작성 스킬** — `dementia-center-documents.zip`을 claude.ai에 올리면 안내문·계획서·평가서·결과보고서 규칙이 계정에 붙습니다. 규칙 본문은 `SKILL.md` |
 | `handouts/` | 유인물 1(규칙 템플릿·프롬프트 카드·안전 규칙), 유인물 2(무료/유료 기능·Claude in Chrome·컴퓨터 사용·GitHub 가입) |
 | `sample/` | 실습용 **가명 실적표** 엑셀 — 모두 가짜 숫자, 사람 정보 없음 |
+| `slides/` | 특강 슬라이드 8장(pdf·pptx)과 실습 2 예시 차트 |
 
 ## 스킬 설치 (3분)
 
